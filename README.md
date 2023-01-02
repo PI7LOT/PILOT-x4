@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PILOT-x4
+- 👋 Hi, I’m @PILOT
 - 👀 I’m interested in computer science, NFTs, Block-chaine, Web3
 - 🌱 I’m currently learning Cyber Security and moving to the 5G technology
 - 📫 not yet!
